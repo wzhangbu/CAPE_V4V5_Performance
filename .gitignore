@@ -1,0 +1,9 @@
+# .gitignore conten
+/v4_datasets/
+/v4_datasets_val_split/
+/v5_datasets/
+/output/
+# /model/
+build_model_new_old_1117.ipynb
+build_model.ipynb
+plot_function.py
